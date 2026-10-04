@@ -1,0 +1,9 @@
+Statistic,Value
+Number of windows,46407.0
+Mean GC (%),50.79147973366087
+Median GC (%),51.6
+Minimum GC (%),27.400000000000002
+Maximum GC (%),69.89999999999999
+Standard deviation GC (%),4.779436900951368
+Mean AT (%),49.20852026633913
+Mean AT/GC ratio,0.9890036495612164
